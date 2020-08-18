@@ -1,0 +1,74 @@
+
+body{
+    background-color: #00afaf;
+}
+.container-principal{
+    font-family: 'Verdana'; color: white;
+
+}
+.logo{
+    margin: 0 auto;
+    padding-top: 20px; 
+}
+.logo{
+    width: 300px;
+    height: 200px; 
+}
+.logo img{
+    width: 300px;
+    height: 200px; 
+}
+.informacoes{
+    margin: 0 auto;
+    width: 270px;
+    margin-top: 15px;
+    padding: 10px 5px;
+    background-color: #067575;
+}
+.usuario > input{
+    width: 99%;
+    height: 30px;
+    margin-bottom: 10px;
+    border: none;
+}
+.botoes{
+    width: 100%;
+    height: 30px;
+    margin-bottom: 10px;
+    padding: 5px 0 5px 0;
+    color: #fff;
+    border: 0;
+    background-color: green;
+}
+#botao-cancelar{
+    width: 100%;
+    height: 30px;
+    margin-bottom: 10px;
+    padding: 5px 0 5px 0;
+    color: #fff;
+    border: 0;
+    background-color: red;
+}
+.aviso{
+    text-align: center;
+    margin-bottom: 20px;
+    color: #cecbcb;
+}
+.selects{
+    width: 100%;
+    margin-bottom: 10px;
+    height: 35px;
+    border: none;
+}
+.links{
+    margin-bottom: 10px;
+    position: relative;
+}
+a{
+    text-decoration: none;
+    color:#cecbcb;
+    font-size: 13px;
+}
+#link2{
+    float: right;
+}
